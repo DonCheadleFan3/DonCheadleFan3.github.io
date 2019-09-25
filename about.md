@@ -8,7 +8,7 @@ permalink: /about/
 Computer Science Blogpost
 
 
-I am a student of Computer Science at A-Level
+I am a student of Computer Science at A-Level, learning year 1 content.
 
 ### More Information
 
