@@ -16,7 +16,7 @@ GCSE Computer Science Grade: 8
 
 Current Subjects: Computer Science, Graphics, Maths
 
-## Programming Languages Learnt:
+# Programming Languages Learnt:
 Python
 
 ### Don't Contact Me
