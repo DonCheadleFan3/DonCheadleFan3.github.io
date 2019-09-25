@@ -9,7 +9,8 @@ Some information about you!
 ### More Information
 
 GCSE Computer Science Grade: 8
-Current Cubjects: Computer Science, Graphics, Maths
+
+  Current Cubjects: Computer Science, Graphics, Maths
 
 ### Don't Contact Me
 
