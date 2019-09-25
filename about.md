@@ -8,8 +8,9 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+GCSE Computer Science Grade: 8
+Current Cubjects: Computer Science, Graphics, Maths
 
-### Contact me
+### Don't Contact Me
 
-[email@domain.com](mailto:email@domain.com)
+[no@nah.com](mailto:nope@nuhuh.com)
