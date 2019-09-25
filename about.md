@@ -4,13 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Dan Brown
+Computer Science Blogpost
+
+I am a student of Computer Science
 
 ### More Information
 
 GCSE Computer Science Grade: 8
 
-  Current Cubjects: Computer Science, Graphics, Maths
+Current Cubjects: Computer Science, Graphics, Maths
 
 ### Don't Contact Me
 
