@@ -1,0 +1,50 @@
+---
+layout: post
+title: C# Basics
+categories: C# Programming
+---
+Variables are an important aspect of programming. They can be defined by doing this:
+
+```csharp
+e.g.
+double poundToDollarRate = 1.67;
+const double dollarToPoundRate = 0.59;
+double finalValue;
+```
+
+As seen above, constants can be made by further defining the variables as constants.
+
+
+With variables, values can be converted, from one data type to another, for example:
+
+```csharp
+e.g.
+string origInput = Console.ReadLine();
+double origValue = Convert.ToDouble(origInput);
+```
+
+Above, a string input variable has been converted to a decimal data type.
+
+
+Switch - Case is a more advanced form of if statements, they can be written like this:
+
+```csharp
+e.g.
+switch(iX)
+{
+  case 1:
+    finalValue = origValue * dollarToPoundRate;
+    Console.WriteLine(origValue + " dollars are worth " + finalValue + " pounds.");
+    Console.ReadLine();
+    break;
+  case 2:
+    finalValue = origValue * poundToDollarRate;
+    Console.WriteLine(origValue + " pounds are worth " + finalValue + " dollars.");
+    Console.ReadLine();
+    break;
+  default:
+    Console.WriteLine("Incorrect Value inputted.");
+    Console.ReadLine();
+    break;
+}
+```
